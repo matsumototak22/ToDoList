@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "290302938481",
+    "project_id": "todolist-matsumoto",
+    "storage_bucket": "todolist-matsumoto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290302938481:android:ebf8ac406689fec2a93ad0",
+        "android_client_info": {
+          "package_name": "com.matsumototak.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290302938481-ta1737le4aep16t56b25kaqu6oc2g7kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matsumototak.todolist",
+            "certificate_hash": "70b01c9190bb9f2d4b9df18bf56a68d1df4b9220"
+          }
+        },
+        {
+          "client_id": "290302938481-qi0086oupkmdseopbbumjasuo7vgd63b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKTPKr5tZn_VeyUdSqdym1zXKhfyJqOHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290302938481-qi0086oupkmdseopbbumjasuo7vgd63b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
